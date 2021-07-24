@@ -1,7 +1,5 @@
 # Random-Sudoku-Solver-Generator
 
-pySudoku
-========
 
 Simple Sudoku solver/generator created in Python.
 
